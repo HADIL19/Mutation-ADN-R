@@ -1,0 +1,16 @@
+# Fichiers R temporaires
+.Rhistory
+.RData
+.Rproj.user/
+
+# Dossiers de résultats / sorties
+results/
+
+# Données brutes (si volumineuses ou confidentielles)
+data/
+
+# Packages locaux
+*.libPaths/
+
+# Fichiers générés par VS Code
+.vscode/
