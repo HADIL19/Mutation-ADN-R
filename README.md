@@ -108,3 +108,5 @@ Générer des graphiques plus détaillés (heatmaps, logos de séquence, etc.).
 
 Licence
 Projet libre à des fins éducatives et scientifiques (CC0 / Domaine public).
+```
+ <img width="1052" height="493" alt="Screenshot 2025-11-07 143911" src="https://github.com/user-attachments/assets/6babe2c5-aa3c-468b-9b19-c4804974243b" />
